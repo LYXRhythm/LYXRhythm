@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LYXRhythm
-- 👀 I’m interested in machine learning, object detection.
+- 👀 I’m interested in Computer Vision, Multimodel Mechine Learning.
 - 🌱 I'm a graduate student in Sichuan University.
 - ✨ Contact with me by e-mail 838194547@qq.com
 
