@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LYXRhythm
-- 👀 I’m interested in Multimodal Learning, Computer Vision, Signal Processing.
+- 👀 I’m interested in Multimodal Learning, and Computer Vision.
 
 <!---
 LYXRhythm/LYXRhythm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
